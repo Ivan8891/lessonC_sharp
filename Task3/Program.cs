@@ -2,3 +2,11 @@
 // 4 -> да
 // -3 -> нет
 // 7 -> нет
+
+Console.WriteLine("Введите число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+a %= 2;
+if (a == 0)
+    Console.WriteLine("Это число четное.");
+else
+    Console.WriteLine("Это число не четное.");
