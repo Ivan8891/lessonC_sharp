@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\Task1\\Task1.csproj": {}
+    "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\task1\\Task1.csproj": {}
   },
   "projects": {
-    "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\Task1\\Task1.csproj": {
+    "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\Task1\\Task1.csproj",
+        "projectUniqueName": "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\Task1\\Task1.csproj",
+        "projectPath": "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Папа\\.nuget\\packages\\",
-        "outputPath": "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\Task1\\obj\\",
+        "outputPath": "H:\\Учеба\\ДЗ семинар 1 C#\\lessonC_sharp\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
